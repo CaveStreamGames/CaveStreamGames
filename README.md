@@ -1,2 +1,1 @@
-Hi, I'm CaveStreamGames, I am primarily a Java developer, but have experience with C++ and C as well. 
-I am currently learning Powershell, Python, and a little bit of GO.
+Hi, I'm CaveStreamGames, I am primarily a Java developer, but have experience with Python, C++, and C as well.
